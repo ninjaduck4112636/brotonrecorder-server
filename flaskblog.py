@@ -22,6 +22,7 @@ def hello_world():
 		<!DOCTYPE html>
 <html>
 <head>
+	<meta http-equiv="refresh" content="120" >
 	<title>brotonrecorder-server</title>
 </head>
 <body>
